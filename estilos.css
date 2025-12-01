@@ -316,6 +316,19 @@ footer {
   color: #06755b;
 }
 
+/* -------------------- ESTILOS ESPECÍFICOS POR TEMA -------------------- */
+.tema5 {
+  border-left-color: #8bc34a !important; /* Verde claro para legislación/actualidad */
+}
+
+.cuadro-tema.tema5 {
+  background-color: #f8fff8;
+}
+
+.tema5 h2 {
+  color: #558b2f;
+}
+
 /* -------------------- RESPONSIVE -------------------- */
 @media (max-width: 768px) {
   .temas-grid {
